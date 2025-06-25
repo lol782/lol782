@@ -75,7 +75,7 @@ Welcome to my GitHub! I'm a B.Tech Computer Science student from Dehradun with a
 
 ## 📬 Connect With Me
 
-- 📫 Email: rahulkodunga@gmail.com *(optional)*
+- 📫 Email: rahulkoranga30@gmail.com
 - 🛠️ Always happy to collaborate on cool tech projects—drop me a message!
 
 ---
