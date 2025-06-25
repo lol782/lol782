@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaneki Ken (a.k.a. Rahul Kodunga)
+# 👋 Hi, I'm lol782 (a.k.a. Rahul Koranga)
 
 Welcome to my GitHub! I'm a B.Tech Computer Science student from Dehradun with a strong interest in building intelligent systems that serve a purpose. I come from an army background, and my curiosity drives me across a diverse set of fields—AI/ML, web development, embedded systems, and more.
 
