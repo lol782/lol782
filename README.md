@@ -1,83 +1,49 @@
-# 👋 Hi, I'm lol782 (a.k.a. Rahul Koranga)
+#  Hey, I'm **Rahul Koranga** <img src="./ascii-animation.gif" width="70">
 
-Welcome to my GitHub! I'm a B.Tech Computer Science student from Dehradun with a strong interest in building intelligent systems that serve a purpose. I come from an army background, and my curiosity drives me across a diverse set of fields—AI/ML, web development, embedded systems, and more.
+### 🚀 AI Engineer • Full Stack • IoT • NLP
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Backend-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Real%20World%20Systems-black?style=for-the-badge" />
+</p>
 
-## 🚀 What I'm Working On
+## ⚡ About
 
-### 🧠 AI/ML Projects
-- **Kumaoni Language Translation Model**  
-  Building a two-way translation system (English ↔ Kumaoni) using MBart50 and Hugging Face to preserve and promote the Kumaoni language and culture.
+* 🏪 Building smart inventory for local kiranas with voice-based stock management and automation
+* 🌄 Built Kumaoni local-language chatbot using RAG, removing separate model training costs
+* 🔥 Working on invisible fire detection with advanced vision pipelines
+* ♻️ Built Eco-Connect, an AI-powered waste management platform with smart classification
+
+## 🛠️ Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&color=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white&color=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white&color=092E20" alt="Django" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white&color=1C3C3C" alt="LangChain" />
+</p>
+
+## 🚀 Highlight Builds
+
+* 🌄 **Kumaoni Translator**
+* 🎟️ **AI Ticket Reservation System**
+* 🔥 **Real-Time Fire Detection**
+* 🌾 **Krishi Seva Smart Inventory**
+* ⚙️ **OS Task Simulator**
+
+## 📊 GitHub
+
+<p>
   
-- **AI-Powered Ticket Reservation System**  
-  Backend in Django, AI chatbot in Rasa, database in MongoDB. Automating the railway ticket booking process with intelligent conversations.
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=lol782&theme=tokyonight" />
+</p>
 
-- **Fire Detection System**  
-  Real-time fire detection using YOLOv8, potentially with thermal filters for invisible fire recognition. Running on normal camera feed with optimized processing.
+## 🌐 Connect
 
-- **AI Image Filters (Anime Face Swap)**  
-  Exploring models like U-GAT-IT for anime-style image transformation. Focus on memory optimization (Colab, 15GB GPU).
+<p>
+  <a href="mailto:rahulkoranga30@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/rahul-koranga-656785258/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
 
-- **Virtual Scene Generation**  
-  Creating immersive VR environments based on weather data using generative models.
-
-### 💻 Web & Full Stack Development
-- **Krishi Seva - Blockchain Inventory System**  
-  IoT-based inventory tracking system using ESP32 for real-time item updates, blockchain-style transaction logging, and MongoDB storage.
-
-- **Task Manager in Streamlit**  
-  Custom desktop simulation with scheduling algorithms, resource usage visualization, and real-time simulation controls.
-
-- **React-based Apps**  
-  Countdown timer, secure login, DOB-to-age calculator, quiz app, class-based counters, etc. Built as part of full-stack learning.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, C, C++, JavaScript, PHP  
-- **ML/DL Libraries:** PyTorch, TensorFlow, Hugging Face Transformers  
-- **Web:** React.js, Django, Streamlit, HTML/CSS, Axios, Bootstrap  
-- **Database:** MongoDB, MySQL  
-- **Tools & Platforms:** Google Colab, Git, Google Drive API, Linux, VS Code  
-- **Other:** Rasa (Chatbot), YOLO (Object Detection), CycleGAN, U-GAT-IT
-
----
-
-## 📚 Currently Learning
-
-- Django
-- React JS (Hooks, Routing, Axios)
-- Blockchain structures and secure hashing
-- Model training & deployment using Hugging Face
-
----
-
-## 🎯 Goals
-
-- 🔄 Preserve Kumaoni language via AI
-- ⚙️ Build practical systems that combine ML, hardware, and the web
-- 🧠 Contribute to low-resource NLP
-- 🌐 Become a versatile developer with strong backend and AI fusion skills
-- 🤖 Launch personal AI tools for Indian regional languages
-
----
-
-## 📢 Fun Facts
-
-- I enjoy interactive learning through games and puzzles.
-- I’m deeply interested in system design, simulation, and embedded hardware.
-- I believe AI isn’t truly intelligent—just cleverly trained algorithms.
-- I thrive on hackathons and hands-on problem-solving challenges.
-
----
-
-## 📬 Connect With Me
-
-- 📫 Email: rahulkoranga30@gmail.com
-- 🛠️ Always happy to collaborate on cool tech projects—drop me a message!
-
----
-
-> *“Build what matters. Learn what lasts.”*
+> **Build what matters ⚡**
